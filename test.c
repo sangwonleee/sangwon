@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// it is mine
+
 int function(void)
 {
 	int a = 1;
