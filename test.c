@@ -3,7 +3,7 @@
 int function(void)
 {
 	printf("hello!\n");
-	return 1;
+	return 10;
 }
 
 int main(void)
